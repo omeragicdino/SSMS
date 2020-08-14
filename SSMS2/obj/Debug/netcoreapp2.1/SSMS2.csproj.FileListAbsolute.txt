@@ -1,0 +1,14 @@
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\bin\Debug\netcoreapp2.1\SSMS2.deps.json
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\bin\Debug\netcoreapp2.1\SSMS2.runtimeconfig.json
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\bin\Debug\netcoreapp2.1\SSMS2.runtimeconfig.dev.json
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\bin\Debug\netcoreapp2.1\SSMS2.dll
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\bin\Debug\netcoreapp2.1\SSMS2.pdb
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.csprojAssemblyReference.cache
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.csproj.CoreCompileInputs.cache
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.RazorAssemblyInfo.cache
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.RazorAssemblyInfo.cs
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.AssemblyInfoInputs.cache
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.AssemblyInfo.cs
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.RazorTargetAssemblyInfo.cache
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.dll
+C:\Users\DinoOmeragic\Desktop\SSMS2\SSMS2\SSMS2\obj\Debug\netcoreapp2.1\SSMS2.pdb
